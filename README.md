@@ -4,6 +4,13 @@ It is a website designed as a resume builder, offering a convenient way to creat
 
 You can also download the resume in PDF format.
 
+## INSTRUCTION
+
+1. Fill in all the details.
+2. Then you have to click on Generate resume.
+3. It will replace the sample resume template given below with a new one having your details.
+4. The Download Resume button will also become available in case you want to download the resume.
+
 Tech Stack Used:- React | Bootstrap 4
 
 ## RESUME FORM
